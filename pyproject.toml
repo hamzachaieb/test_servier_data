@@ -1,0 +1,27 @@
+[tool.poetry]
+name = "test_servier"
+version = "0.1.0"
+description = "Servier's python test"
+authors = ["Hamza CHAIEB <lehamza.ch@gmail.com>"]
+readme = "README.md"
+
+# Spécifie explicitement le package source
+packages = [
+    { include = "src" }
+]
+
+[tool.poetry.dependencies]
+python = ">=3.9,<4.0"
+pandas = "^2.2.3"
+requests = "^2.32.3"
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^8.3.3"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry.scripts]
+main = "src.main:main"
+ad_hoc = "src.ad_hoc:export_most_mentioned_journal"

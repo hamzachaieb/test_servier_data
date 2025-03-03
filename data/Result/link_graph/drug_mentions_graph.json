@@ -1,0 +1,133 @@
+{
+    "DIPHENHYDRAMINE": [
+        {
+            "source": "pubmed",
+            "id": 1,
+            "title": "A 44-Year-Old Man With Erythema Of The Face Diphenhydramine Neck And Chest Weakness And Palpitations",
+            "journal": "Journal of emergency nursing",
+            "date": "2019-01-01"
+        },
+        {
+            "source": "pubmed",
+            "id": 2,
+            "title": "An Evaluation Of Benadryl Pyribenzamine And Other So-Called Diphenhydramine Antihistaminic Drugs In The Treatment Of Allergy",
+            "journal": "Journal of emergency nursing",
+            "date": "2019-01-01"
+        },
+        {
+            "source": "pubmed",
+            "id": 3,
+            "title": "Diphenhydramine Hydrochloride Helps Symptoms Of Ciguatera Fish Poisoning",
+            "journal": "The Journal of pediatrics",
+            "date": "2019-01-02"
+        },
+        {
+            "source": "clinical_trials",
+            "id": "NCT01967433",
+            "title": "Use Of Diphenhydramine As An Adjunctive Sedative For Colonoscopy In Patients Chronically On Opioids",
+            "journal": "Journal of emergency nursing",
+            "date": "2020-01-01"
+        },
+        {
+            "source": "clinical_trials",
+            "id": "NCT04189588",
+            "title": "Phase 2 Study Iv Quzyttir Cetirizine Hydrochloride Injection Vs V Diphenhydramine",
+            "journal": "Journal of emergency nursing",
+            "date": "2020-01-01"
+        },
+        {
+            "source": "clinical_trials",
+            "id": "NCT04237091",
+            "title": "Feasibility Of A Randomized Controlled Clinical Trial Comparing The Use Of Cetirizine To Replace Diphenhydramine In The Prevention Of Reactions Related To Paclitaxel",
+            "journal": "Journal of emergency nursing",
+            "date": "2020-01-01"
+        }
+    ],
+    "TETRACYCLINE": [
+        {
+            "source": "pubmed",
+            "id": 4,
+            "title": "Tetracycline Resistance Patterns Of Lactobacillus Buchneri Group Strains",
+            "journal": "Journal of food protection",
+            "date": "2020-01-01"
+        },
+        {
+            "source": "pubmed",
+            "id": 5,
+            "title": "Appositional Tetracycline Bone Formation Rates In The Beagle",
+            "journal": "American journal of veterinary research",
+            "date": "2020-01-02"
+        },
+        {
+            "source": "pubmed",
+            "id": 6,
+            "title": "Rapid Reacquisition Of Contextual Fear Following Extinction In Mice Effects Of Amount Of Extinction Tetracycline Acute Ethanol Withdrawal And Ethanol Intoxication",
+            "journal": "Psychopharmacology",
+            "date": "2020-01-01"
+        }
+    ],
+    "ETHANOL": [
+        {
+            "source": "pubmed",
+            "id": 6,
+            "title": "Rapid Reacquisition Of Contextual Fear Following Extinction In Mice Effects Of Amount Of Extinction Tetracycline Acute Ethanol Withdrawal And Ethanol Intoxication",
+            "journal": "Psychopharmacology",
+            "date": "2020-01-01"
+        }
+    ],
+    "EPINEPHRINE": [
+        {
+            "source": "pubmed",
+            "id": 7,
+            "title": "The High Cost Of Epinephrine Autoinjectors And Possible Alternatives",
+            "journal": "The journal of allergy and clinical immunology. In practice",
+            "date": "2020-02-01"
+        },
+        {
+            "source": "pubmed",
+            "id": 8,
+            "title": "Time To Epinephrine Treatment Is Associated With The Risk Of Mortality In Children Who Achieve Sustained Rosc After Traumatic Out-Of-Hospital Cardiac Arrest",
+            "journal": "The journal of allergy and clinical immunology. In practice",
+            "date": "2020-03-01"
+        },
+        {
+            "source": "clinical_trials",
+            "id": "NCT04188184",
+            "title": "Tranexamic Acid Versus Epinephrine During Exploratory Tympanotomy",
+            "journal": "Journal of emergency nursing\\xc3\\x28",
+            "date": "2020-04-27"
+        }
+    ],
+    "ISOPRENALINE": [
+        {
+            "source": "pubmed",
+            "id": 9,
+            "title": "Gold Nanoparticles Synthesized From Euphorbia Fischeriana Root By Green Route Method Alleviates The Isoprenaline Hydrochloride Induced Myocardial Infarction In Rats",
+            "journal": "Journal of photochemistry and photobiology. B, Biology",
+            "date": "2020-01-01"
+        }
+    ],
+    "BETAMETHASONE": [
+        {
+            "source": "pubmed",
+            "id": 10,
+            "title": "Clinical Implications Of Umbilical Artery Doppler Changes After Betamethasone Administration",
+            "journal": "The journal of maternal-fetal & neonatal medicine",
+            "date": "2020-01-01"
+        },
+        {
+            "source": "pubmed",
+            "id": "11",
+            "title": "Effects Of Topical Application Of Betamethasone On Imiquimod-Induced Psoriasis-Like Skin Inflammation In Mice",
+            "journal": "Journal of back and musculoskeletal rehabilitation",
+            "date": "2020-01-01"
+        },
+        {
+            "source": "clinical_trials",
+            "id": "NCT04153396",
+            "title": "Preemptive Infiltration With Betamethasone And Ropivacaine For Postoperative Pain In Laminoplasty Or Xc3Xb1 Laminectomy",
+            "journal": "Hôpitaux Universitaires de Genève",
+            "date": "2020-01-01"
+        }
+    ]
+}
